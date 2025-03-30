@@ -23,7 +23,7 @@ export function App() {
       <Provider store={store}>
         <main className={'main'}>
           <header className="App-header">
-            <h1>Counter example</h1>
+            <h1>Noam's Counter example</h1>
           </header>
           <ChangeThemeForm />
           <CreateCounterForm />
